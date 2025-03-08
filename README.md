@@ -1,54 +1,78 @@
-# React + TypeScript + Vite
+# 🌿 **App Igreja Videira Chapadão do Céu**  
+<p align="center">
+<img src="https://github.com/user-attachments/assets/3eeeeed8-d215-4981-b82d-2d5c1c2307b6" alt="ASIptvServer Logo" />
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Seja bem-vindo ao aplicativo oficial da **Igreja Videira Chapadão do Céu**! 🌟  
+Conecte-se com nossa comunidade, participe de eventos e acompanhe todas as novidades em um só lugar.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📍 **Igreja**  
+**Endereço:**  
+Igreja Videira Chapadão do Céu, R. H, Chapadão do Céu - GO, 75828-000
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+**Horários de Culto:**  
+- 🕙 Domingo: 18h  
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+**Pastores Responsáveis:**  
+- 🧑‍💼 Jozzueh Castro
+- 👩‍💼 Joarla Castro
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+**Contato:**  
+- 📞 Telefone: (64) 1234-5678  
+- 📧 E-mail: [contato@videirachapadaodoceu.com](mailto:contato@videirachapadaodoceu.com)  
+- 📱 Instagram: [@videirachapadaodoceu](https://instagram.com/videirachapadaodoceu)  
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+---
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+## 🎉 **Eventos**  
+🌟 Participe dos próximos eventos e viva momentos incríveis!  
+- Conferências transformadoras  
+- Retiro espiritual  
+- Encontros especiais para jovens, crianças e famílias  
+
+👉 Confira detalhes e inscreva-se pelo app!  
+
+---
+
+## 📚 **Escola Videira**  
+Invista no seu crescimento espiritual!  
+Cursos disponíveis:  
+- **Curso Básico de Teologia**  
+- **Formação de Líderes**  
+- **Discipulado**  
+
+🎓 Inscreva-se diretamente no aplicativo e capacite-se para servir melhor!  
+
+---
+
+## 🙏 **Pedidos de Oração**  
+Estamos prontos para orar por você!  
+Envie suas necessidades pela aba **Pedidos de Oração** e conte com nossa equipe de intercessores.  
+
+---
+
+## 💌 **Ofertas**  
+Contribua para o avanço do Reino de Deus!  
+Doe de forma rápida, segura e prática diretamente pelo app.  
+
+---
+
+## 📝 **Palavra da Célula**  
+Acompanhe a mensagem da semana para as reuniões de célula.  
+📖 Acesse na aba **Palavra da Célula** e compartilhe o ensinamento com o seu grupo!  
+
+---
+
+## 🏠 **Endereço das Células**  
+Encontre a célula mais próxima de você e conecte-se com nossa família!  
+ 
+
+💡 **Dica:** Entre em contato diretamente com o líder para mais informações.  
+
+---
+
+**🌟 Que Deus abençoe você e sua família!**  
+Siga-nos e fique por dentro de tudo: [@videirachapadaodoceu](https://instagram.com/videirachapadaodoceu)  
